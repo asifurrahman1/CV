@@ -1,24 +1,18 @@
 # Md Asifur Rahman
 
-Lecturer, Department of Computer Science & Engineering <br>
-[Rajshahi University of Engineering & Technology](https://www.cse.ruet.ac.bd) <br>
-Bangladesh <br>
+Lecturer, Department of Computer Science & Engineering, <br>
+[Rajshahi University of Engineering & Technology](https://www.cse.ruet.ac.bd), <br>
+Bangladesh, <br>
 
 [Email](mailto:asifurrahman1@gmail.com) / [Website](https://www.cse.ruet.ac.bd/asifurrahman) / [LinkedIn](https://www.linkedin.com/in/asifur-rahman-33121892/) / [GitHub](https://github.com/asifurrahman1/) 
 
 ## 👩🏼‍🎓 Education
 
-**12-week intensive coding course** focused on full-stack JavaScript<br>
-[SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
+<!-- **12-week intensive coding course** focused on full-stack JavaScript<br>
+[SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br> -->
 
-**Bachelor of Arts** in Journalism and Media Studies<br>
-[Beloit College](https://www.beloit.edu/) - Beloit, Wisconsin, USA _(2011 - 2015)_
-
-**Washington Semester Program** for Journalism and New Media<br>
-[American University](https://www.american.edu/) - Washington DC, USA _(Fall 2014)_
-
-**International Exchange** studying Political Science<br>
-[Yeditepe Üniversitesi](https://yeditepe.edu.tr/en) - Istanbul, Turkey _(Spring 2013)_
+**Bachelor of Science** in Computer Science & Engineering<br>
+[Rajshahi University of Engineering & Technology](https://www.cse.ruet.ac.bd) - Rajshahi, Bangladesh _(2012 - 2016)_
 <br><br>
 
 ## 👩🏼‍💻 Technical Experience
