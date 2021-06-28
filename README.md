@@ -8,7 +8,8 @@ Bangladesh, <br>
 ## Research Interest
 [Reinforcement Learning](), [Imitation Learning](), [Optimization](), [Deep Learning](), [Computer Vision]()
 <br><br>
-<!-- ## 👩🏼‍🎓 Education -->
+
+
 ## Education
 **Bachelor of Science** in Computer Science & Engineering<br>
 [Rajshahi University of Engineering & Technology (RUET)](https://www.cse.ruet.ac.bd) - Rajshahi, Bangladesh _(2012 - 2016)_
@@ -17,7 +18,7 @@ Bangladesh, <br>
 - **Undergraduate Dissertation title**: “An adaptive background modeling based on modified running Gaussian average method”
 <br><br>
 
-<!-- ## 👩🏼‍💻 Teaching Experience -->
+
 ## Teaching Experience
 [**Lecturer**](https://www.cse.ruet.ac.bd/asifurrahman), [Department of Computer Science & Engineering](https://www.cse.ruet.ac.bd/), [Rajshahi University of Engineering & Technology (RUET)](https://www.cse.ruet.ac.bd)  _(July 2017 - Present)_ <br>
   - Teach undergraduate courses such as : C, C++, Java programming Language, Object Oriented
@@ -29,7 +30,6 @@ Architecture & Design etc.
 <br><br>
     
 ## Leadership Experience
-
  - Focal Point of the Department of Computer Science & Engineering, RUET  _**(2018 - Present)**_ 
  - Assistant Director, Mobile Games and Application Development Lab, RUET _**(2018 - Present)**_
  - Course Advisor of 62 Undergraduate Student _**(2017 - Present)**_
@@ -43,6 +43,7 @@ Architecture & Design etc.
 - Deep Reinforcement Learning based stochastic function approximation for A* search in solving traveling salesman problem.**(On Going)**
 - Robust reinforcement learning against FGSM and imitation learning based adversarial attack.**(On Going)**
 <br><br>
+
 ## Projects
 - [Qmix on Star Craft Environment: colab](https://github.com/asifurrahman1/qmix_google_colab)
 - [OpenAI Gym Custom Environment Creation](https://github.com/asifurrahman1/Custom_GYM_grid_environment)
@@ -51,14 +52,15 @@ Architecture & Design etc.
 - [International Conference on Electrical, Computer & Telecommunication Engineering (ICECTE)](https://ieeexplore.ieee.org/xpl/conhome/9303508/proceeding) [-Website](https://github.com/asifurrahman1/ICECTE)
 - [International Conference on Electrical & Electronic Engineering (ICEEE 2021)-Website](http://iceee-ruet.org/)
 - [Ruet CSE Fest-Website](https://github.com/asifurrahman1/ruetcsefest)
+<br><br>
 
 ## Scholarships
 - University Merit Scholarship _**(2012-2016)**_
 - Higher Secondary Certificate Scholarship _**(2011)**_
 - Secondary School Certificate Scholarship _**(2009)**_
+<br><br>
 
 ## Languages
-
 **Bengali**: Native <br>
 **English**: CEFR Level C1
 <br><br>
