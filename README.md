@@ -26,7 +26,7 @@ Architecture & Design etc.
 <br><br>
     
 ## Leadership Experience
-abc | def
+--- | ---
 ------------ | -------------
 _**(2018 - Present)**_ | Focal Point of the Department of Computer Science & Engineering, RUET. 
 _**(2018 - Present)**_ | Assistant Director, Mobile Games and Application Development Lab, RUET.
