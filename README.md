@@ -49,10 +49,9 @@ Architecture & Design etc.
 - [Stochastic Function Aproximation for A* Search](https://github.com/asifurrahman1/A_star_Search_FN_Approximation/)
 - [Spoken English - iOS application](https://github.com/asifurrahman1/SpokenEnglishIOSv2)
 - [International Conference on Electrical, Computer & Telecommunication Engineering (ICECTE)](https://ieeexplore.ieee.org/xpl/conhome/9303508/proceeding) [-Website](https://github.com/asifurrahman1/ICECTE)
-- [International Conference on Electrical, Computer & Telecommunication Engineering (ICECTE)](https://ieeexplore.ieee.org/xpl/conhome/9303508/proceeding) [-Website](https://github.com/asifurrahman1/ICECTE)
-- [International Conference on Electrical & Electronic Engineering (ICEEE 2021)](http://iceee-ruet.org/)
-- [Ruet CSE Fest](https://github.com/asifurrahman1/ruetcsefest)
-- 
+- [International Conference on Electrical & Electronic Engineering (ICEEE 2021)-Website](http://iceee-ruet.org/)
+- [Ruet CSE Fest-Website](https://github.com/asifurrahman1/ruetcsefest)
+
 ## Academic Achievements
 - University Merit Scholarship _**(2012-2016)**_
 - Higher Secondary Certificate Scholarship _**(2011)**_
