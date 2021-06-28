@@ -1,6 +1,5 @@
 # Md Asifur Rahman
-
-Lecturer, Department of Computer Science & Engineering, <br>
+Department of Computer Science & Engineering, <br>
 Rajshahi University of Engineering & Technology, <br>
 Bangladesh, <br>
 
@@ -14,7 +13,7 @@ Bangladesh, <br>
 
 ## 👩🏼‍💻 Teaching Experience
 
-[**Lecturer**](https://www.cse.ruet.ac.bd/asifurrahman) _(Dec 2020 - Present)_ <br>
+[**Lecturer**](https://www.cse.ruet.ac.bd/asifurrahman), [Department of Computer Science & Engineering](https://www.cse.ruet.ac.bd/), [Rajshahi University of Engineering & Technology](https://www.cse.ruet.ac.bd)  _(July 2017 - Present)_ <br>
 No-code platform that enables professionals to build interactive applications.
   - Implementing features that improve the UI and accessibility of the integrations platform
   - Extending a company-wide design system
