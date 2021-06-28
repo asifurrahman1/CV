@@ -63,3 +63,5 @@ Architecture & Design etc.
 **English**: CEFR Level C1
 <br><br>
 
+## 💬 Documents / Files
+- [CV](https://drive.google.com/file/d/1-UMSSEUGOZTUazDoIutCAGogpitLyIDX/view?usp=sharing)
