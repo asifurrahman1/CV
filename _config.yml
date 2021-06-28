@@ -1,11 +1,12 @@
 theme: jekyll-theme-minimal
-title: Md Asifur Rahman 
+title: Md Asifur Rahman <br>Lecturer<br>Department of Computer Science & Engineering<br><a href="https://www.ruet.ac.bd/">Rajshahi University of Engineering & Technology</a><br>Bangladesh
 logo: /assests/img/pp.png
 round-logo: true
 # avatar: "/assests/img/pp.png"
-description: Lecturer, Department of Computer Science & Engineering<br>
-<a href="https://www.ruet.ac.bd/">Rajshahi University of Engineering & Technology</a><br>
-Bangladesh<br><br>
+# description: Lecturer
+# Department of Computer Science & Engineering<br>
+# <a href="https://www.ruet.ac.bd/">Rajshahi University of Engineering & Technology</a><br>
+# Bangladesh<br><br>
 
 # Department of Computer Science & Engineering, <br>
 # Rajshahi University of Engineering & Technology (RUET), <br>
