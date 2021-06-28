@@ -57,11 +57,13 @@ Architecture & Design etc.
 - Higher Secondary Certificate Scholarship _**(2011)**_
 - Secondary School Certificate Scholarship _**(2009)**_
 
-## 💬 Languages
+## Languages
 
 **Bengali**: Native <br>
 **English**: CEFR Level C1
 <br><br>
 
-## 💬 Documents / Files
+## Documents / Files
 - [CV](https://drive.google.com/file/d/1-UMSSEUGOZTUazDoIutCAGogpitLyIDX/view?usp=sharing)
+- [B.Sc. Academic Transcripts](https://drive.google.com/file/d/1XLoaVDB2zjVn1wbMTU-rGLtSm10xU4M0/view?usp=sharing)
+- [B.Sc. Certificate](https://drive.google.com/file/d/1DrjmKGSdh-DwuSyPyIgthqdVq_uteV7V/view?usp=sharing)
