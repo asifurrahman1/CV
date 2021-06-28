@@ -1,23 +1,20 @@
 # Md Asifur Rahman
 
 Lecturer, Department of Computer Science & Engineering, <br>
-[Rajshahi University of Engineering & Technology](https://www.cse.ruet.ac.bd), <br>
+Rajshahi University of Engineering & Technology, <br>
 Bangladesh, <br>
 
 [Email](mailto:asifurrahman1@gmail.com) / [Website](https://www.cse.ruet.ac.bd/asifurrahman) / [LinkedIn](https://www.linkedin.com/in/asifur-rahman-33121892/) / [GitHub](https://github.com/asifurrahman1/) 
 
 ## 👩🏼‍🎓 Education
 
-<!-- **12-week intensive coding course** focused on full-stack JavaScript<br>
-[SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br> -->
-
 **Bachelor of Science** in Computer Science & Engineering<br>
 [Rajshahi University of Engineering & Technology](https://www.cse.ruet.ac.bd) - Rajshahi, Bangladesh _(2012 - 2016)_
 <br><br>
 
-## 👩🏼‍💻 Technical Experience
+## 👩🏼‍💻 Teaching Experience
 
-**Frontend Engineer** @ [BRYTER](https://bryter.io/) _(Dec 2020 - Present)_ <br>
+**Lecturer** @ [BRYTER](https://www.cse.ruet.ac.bd/asifurrahman) _(Dec 2020 - Present)_ <br>
 No-code platform that enables professionals to build interactive applications.
   - Implementing features that improve the UI and accessibility of the integrations platform
   - Extending a company-wide design system
