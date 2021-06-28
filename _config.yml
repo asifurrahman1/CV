@@ -1,7 +1,8 @@
 theme: jekyll-theme-minimal
 title: Md Asifur Rahman 
-# logo: /assests/img/pp.png
-avatar: "/assests/img/pp.png"
+logo: /assests/img/pp.png
+round-logo: true
+# avatar: "/assests/img/pp.png"
 description: Lecturer, Department of Computer Science & Engineering, [RUET](https://www.ruet.ac.bd/), Bangladesh
 
 # Department of Computer Science & Engineering, <br>
