@@ -17,7 +17,7 @@ Bangladesh, <br>
 <!-- ## 👩🏼‍💻 Teaching Experience -->
 ## Teaching Experience
 [**Lecturer**](https://www.cse.ruet.ac.bd/asifurrahman), [Department of Computer Science & Engineering](https://www.cse.ruet.ac.bd/), [Rajshahi University of Engineering & Technology](https://www.cse.ruet.ac.bd)  _(July 2017 - Present)_ <br>
-  - each undergraduate courses such as : C, C++, Java programming Language, Object Oriented
+  - Teach undergraduate courses such as : C, C++, Java programming Language, Object Oriented
 Programming, Data Structure, Operating System (Linux Scripting), Software Engineering, Computer
 Architecture & Design etc.
   - Set exam questions, invigilate exams and evaluate answer scripts.
@@ -27,10 +27,10 @@ Architecture & Design etc.
     
 ## Leadership Experience
 
-  - Focal Point of the Department of Computer Science & Engineering, RUET. _(2018 - Present)_
-  - Assistant Director, Mobile Games and Application Development Lab, RUET. _(2018 - Present)_
-  - Course Advisor of 62 Undergraduate Student. _(2017 - Present)_
-  - Treasurer, Dhaka Nibash Somiti (Community Organization). _(2017 - Present)_
+  - Focal Point of the Department of Computer Science & Engineering, RUET. _**(2018 - Present)**_
+  - Assistant Director, Mobile Games and Application Development Lab, RUET. _**(2018 - Present)**_
+  - Course Advisor of 62 Undergraduate Student. _**(2017 - Present)**_
+  - Treasurer, Dhaka Nibash Somiti (Community Organization). _**(2017 - Present)**_
 <br><br>
 
 **Contributing Writer** @ [Future of Sex](https://futureofsex.net/) _(Dec 2020 - Present)_ <br>
