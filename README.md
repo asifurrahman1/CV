@@ -6,8 +6,7 @@ Bangladesh, <br> -->
 :email: [asifurrahman1@gmail.com](mailto:asifurrahman1@gmail.com) <br>
 :email: [asifurrahman@cse.ruet.ac.bd](mailto:asifurrahman@cse.ruet.ac.bd) <br>
 :telephone_receiver: +880 1620 455 183 <br>
-<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />[LinkedIn](https://www.linkedin.com/in/asifur-rahman-33121892/)<br> 
-GitHub](https://github.com/asifurrahman1/)
+[LinkedIn](https://www.linkedin.com/in/asifur-rahman-33121892/)/[GitHub](https://github.com/asifurrahman1/)
 
 
 ## Research Interest
