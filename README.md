@@ -12,6 +12,9 @@ Bangladesh, <br>
 ## Education
 **Bachelor of Science** in Computer Science & Engineering<br>
 [Rajshahi University of Engineering & Technology (RUET)](https://www.cse.ruet.ac.bd) - Rajshahi, Bangladesh _(2012 - 2016)_
+- **CGPA:** 3.74 out of 4.00 **Position:** 4th out of 56 students.
+- **Undergraduate Thesis Supervisor**: Prof. Dr. Boshir Ahmed
+- **Undergraduate Dissertation title**: “An adaptive background modeling based on modified running Gaussian average method”
 <br><br>
 
 <!-- ## 👩🏼‍💻 Teaching Experience -->
@@ -40,20 +43,11 @@ Architecture & Design etc.
 - Deep Reinforcement Learning based stochastic function approximation for A* search in solving traveling salesman problem.**(On Going)**
 - Robust reinforcement learning against FGSM and imitation learning based adversarial attack.**(On Going)**
 <br><br>
-
-**Freelance Writing** _(Mar 2020 - Present)_ <br>
-Recent articles in [Curve Magazine](https://www.curvemag.com/us-home/beyond-the-binary-how-software-engineer-sara-vieira-founded-a-global-community-of-queer-coders/), [Sex for Every Body](https://sexforeverybody.com/sex-education/how-3d-printed-jewelry-is-taking-the-clitoris-mainstream/), [FAWCO's Inspiring Women Magazine](https://workwithcarolyn.com/words/fawco-feature), and more.
-<br><br>
-
-**Contributing Editor** @ [FLURT Magazine](https://www.facebook.com/flurtmagazine) _(Mar 2016 - Sep 2018)_ <br>
-Magazine for socially conscious young people who want to create their own media.
-  - Wrote over 20 articles for print and web focused on technology and activism
-  - Edited and curated online-exclusive content
-  - **_Selected articles:_**
-    - [The War on Sex](https://workwithcarolyn.com/words/war-on-sex)
-    - [What to Do if You Get Doxed](https://workwithcarolyn.com/words/what-to-do-if-you-get-doxed)
-    - [High Tech Sex](https://workwithcarolyn.com/words/high-tech-sex)
-    <br><br>
+## Technical Skills
+## Academic Achievements
+- University Merit Scholarship _**(2012-2016)**_
+- Higher Secondary Certificate Scholarship _**(2011)**_
+- Secondary School Certificate Scholarship _**(2009)**_
 
 ## 📌 On The Side
 
