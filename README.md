@@ -43,7 +43,10 @@ Architecture & Design etc.
 - Deep Reinforcement Learning based stochastic function approximation for A* search in solving traveling salesman problem.**(On Going)**
 - Robust reinforcement learning against FGSM and imitation learning based adversarial attack.**(On Going)**
 <br><br>
-## Technical Skills
+## Projects
+- [Spoken English - iOS application](https://github.com/asifurrahman1/SpokenEnglishIOSv2)
+- [Website - [International Conference on Electrical, Computer & Telecommunication Engineering (ICECTE)](https://ieeexplore.ieee.org/xpl/conhome/9303508/proceeding)](https://github.com/asifurrahman1/ICECTE)
+
 ## Academic Achievements
 - University Merit Scholarship _**(2012-2016)**_
 - Higher Secondary Certificate Scholarship _**(2011)**_
