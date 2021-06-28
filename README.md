@@ -44,9 +44,15 @@ Architecture & Design etc.
 - Robust reinforcement learning against FGSM and imitation learning based adversarial attack.**(On Going)**
 <br><br>
 ## Projects
+- [Qmix on Star Craft Environment: colab](https://github.com/asifurrahman1/qmix_google_colab)
+- [OpenAI Gym Custom Environment Creation](https://github.com/asifurrahman1/Custom_GYM_grid_environment)
+- [Stochastic Function Aproximation for A* Search](https://github.com/asifurrahman1/A_star_Search_FN_Approximation/)
 - [Spoken English - iOS application](https://github.com/asifurrahman1/SpokenEnglishIOSv2)
-- [Website - [International Conference on Electrical, Computer & Telecommunication Engineering (ICECTE)](https://ieeexplore.ieee.org/xpl/conhome/9303508/proceeding)](https://github.com/asifurrahman1/ICECTE)
-
+- [International Conference on Electrical, Computer & Telecommunication Engineering (ICECTE)](https://ieeexplore.ieee.org/xpl/conhome/9303508/proceeding) [-Website](https://github.com/asifurrahman1/ICECTE)
+- [International Conference on Electrical, Computer & Telecommunication Engineering (ICECTE)](https://ieeexplore.ieee.org/xpl/conhome/9303508/proceeding) [-Website](https://github.com/asifurrahman1/ICECTE)
+- [International Conference on Electrical & Electronic Engineering (ICEEE 2021)](http://iceee-ruet.org/)
+- [Ruet CSE Fest](https://github.com/asifurrahman1/ruetcsefest)
+- 
 ## Academic Achievements
 - University Merit Scholarship _**(2012-2016)**_
 - Higher Secondary Certificate Scholarship _**(2011)**_
