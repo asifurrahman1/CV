@@ -27,10 +27,10 @@ Architecture & Design etc.
     
 ## Leadership Experience
 
-  _**(2018 - Present)**_ - Focal Point of the Department of Computer Science & Engineering, RUET. 
-  _**(2018 - Present)**_ -  Assistant Director, Mobile Games and Application Development Lab, RUET.
-  _**(2017 - Present)**_ -  Course Advisor of 62 Undergraduate Student. 
-  _**(2017 - Present)**_ -  Treasurer, Dhaka Nibash Somiti (Community Organization).
+ - _**(2018 - Present)**_ Focal Point of the Department of Computer Science & Engineering, RUET. 
+ - _**(2018 - Present)**_ Assistant Director, Mobile Games and Application Development Lab, RUET.
+ - _**(2017 - Present)**_ Course Advisor of 62 Undergraduate Student. 
+ - _**(2017 - Present)**_ Treasurer, Dhaka Nibash Somiti (Community Organization).
 <br><br>
 ## Research & Publication
 - _**(2017)**_ Md Asifur Rahman, Boshir Ahmed, Md Ali Hossian, and Md Nazrul Islam Mondal, “An adaptive background modeling based on modified running gaussian average method”, In- ternational Conference on Electrical, Computer and Communication Engineering (ECCE), doi:10.1109/ECACE.2017.7912961.
