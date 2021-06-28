@@ -1,6 +1,6 @@
 # Md Asifur Rahman
 Department of Computer Science & Engineering, <br>
-Rajshahi University of Engineering & Technology, <br>
+Rajshahi University of Engineering & Technology (RUET), <br>
 Bangladesh, <br>
 
 [Email](mailto:asifurrahman1@gmail.com) / [Website](https://www.cse.ruet.ac.bd/asifurrahman) / [LinkedIn](https://www.linkedin.com/in/asifur-rahman-33121892/) / [GitHub](https://github.com/asifurrahman1/) 
@@ -11,12 +11,12 @@ Bangladesh, <br>
 <!-- ## 👩🏼‍🎓 Education -->
 ## Education
 **Bachelor of Science** in Computer Science & Engineering<br>
-[Rajshahi University of Engineering & Technology](https://www.cse.ruet.ac.bd) - Rajshahi, Bangladesh _(2012 - 2016)_
+[Rajshahi University of Engineering & Technology (RUET)](https://www.cse.ruet.ac.bd) - Rajshahi, Bangladesh _(2012 - 2016)_
 <br><br>
 
 <!-- ## 👩🏼‍💻 Teaching Experience -->
 ## Teaching Experience
-[**Lecturer**](https://www.cse.ruet.ac.bd/asifurrahman), [Department of Computer Science & Engineering](https://www.cse.ruet.ac.bd/), [Rajshahi University of Engineering & Technology](https://www.cse.ruet.ac.bd)  _(July 2017 - Present)_ <br>
+[**Lecturer**](https://www.cse.ruet.ac.bd/asifurrahman), [Department of Computer Science & Engineering](https://www.cse.ruet.ac.bd/), [Rajshahi University of Engineering & Technology (RUET)](https://www.cse.ruet.ac.bd)  _(July 2017 - Present)_ <br>
   - Teach undergraduate courses such as : C, C++, Java programming Language, Object Oriented
 Programming, Data Structure, Operating System (Linux Scripting), Software Engineering, Computer
 Architecture & Design etc.
@@ -27,12 +27,14 @@ Architecture & Design etc.
     
 ## Leadership Experience
 
-  - Focal Point of the Department of Computer Science & Engineering, RUET. _**(2018 - Present)**_
-  - Assistant Director, Mobile Games and Application Development Lab, RUET. _**(2018 - Present)**_
-  - Course Advisor of 62 Undergraduate Student. _**(2017 - Present)**_
-  - Treasurer, Dhaka Nibash Somiti (Community Organization). _**(2017 - Present)**_
+  -_**(2018 - Present)**_ Focal Point of the Department of Computer Science & Engineering, RUET. 
+  - _**(2018 - Present)**_ Assistant Director, Mobile Games and Application Development Lab, RUET.
+  -_**(2017 - Present)**_ Course Advisor of 62 Undergraduate Student. 
+  - _**(2017 - Present)**_ Treasurer, Dhaka Nibash Somiti (Community Organization).
 <br><br>
-
+## Research & Publication
+- _**(2017)**_ Md Asifur Rahman, Boshir Ahmed, Md Ali Hossian, and Md Nazrul Islam Mondal, “An adaptive background modeling based on modified running gaussian average method”, In- ternational Conference on Electrical, Computer and Communication Engineering (ECCE), doi:10.1109/ECACE.2017.7912961.
+- 
 **Contributing Writer** @ [Future of Sex](https://futureofsex.net/) _(Dec 2020 - Present)_ <br>
 Online publication that provides insights into the future of human sex and sexuality.
   - Writing regular features focused on sexual health and identity
