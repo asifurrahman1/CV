@@ -26,15 +26,7 @@ Architecture & Design etc.
 <br><br>
     
 ## Leadership Experience
------------- | -------------
-<!-- _**(2018 - Present)**_ | Focal Point of the Department of Computer Science & Engineering, RUET. 
-_**(2018 - Present)**_ | Assistant Director, Mobile Games and Application Development Lab, RUET.
-_**(2017 - Present)**_ | Course Advisor of 62 Undergraduate Student. 
-_**(2017 - Present)**_ | Treasurer, Dhaka Nibash Somiti (Community Organization). -->
-<!-- - _**(2018 - Present)**_ 
- - _**(2017 - Present)**_ Course Advisor of 62 Undergraduate Student. 
- - _**(2017 - Present)**_ Treasurer, Dhaka Nibash Somiti (Community Organization). --> 
- 
+
  - Focal Point of the Department of Computer Science & Engineering, RUET  _**(2018 - Present)**_ 
  - Assistant Director, Mobile Games and Application Development Lab, RUET _**(2018 - Present)**_
  - Course Advisor of 62 Undergraduate Student _**(2017 - Present)**_
@@ -42,15 +34,11 @@ _**(2017 - Present)**_ | Treasurer, Dhaka Nibash Somiti (Community Organization)
 <br><br>
  
 ## Research & Publication
-- _**(2017)**_ Md Asifur Rahman, Boshir Ahmed, Md Ali Hossian, and Md Nazrul Islam Mondal, “An adaptive background modeling based on modified running gaussian average method”, In- ternational Conference on Electrical, Computer and Communication Engineering (ECCE), doi:10.1109/ECACE.2017.7912961.
-- 
-**Contributing Writer** @ [Future of Sex](https://futureofsex.net/) _(Dec 2020 - Present)_ <br>
-Online publication that provides insights into the future of human sex and sexuality.
-  - Writing regular features focused on sexual health and identity
-  - Reporting on events that are relevant to the sex tech community
-  - **_Selected articles:_**
-    - [Does Having an IUD Make You a Biohacker or a Cyborg?](https://futureofsex.net/augmentation/does-having-an-iud-make-you-a-biohacker-or-a-cyborg/)
-    - [Exploring Queerness By Switching Up My Vibrators](https://futureofsex.net/sex-tech/exploring-queerness-by-switching-up-my-vibrators/)
+-  Md Asifur Rahman, Boshir Ahmed, Md Ali Hossian, and Md Nazrul Islam Mondal, [“An adaptive background modeling based on modified running gaussian average method”](https://ieeexplore.ieee.org/abstract/document/7912961). _**(2017)**_
+- Apu Chandraw Shill, Md Asifur Rahman, ["Plant Disease Detection Based on YOLOv3 and YOLOv4"](https://conferences.ieee.org/conferences_events/conferences/conferencedetails/53878). 
+- Bodrunnessa Badhon, Mir Md Jahangir Kabir, Md Asifur Rahman, and Shuxiang Xu, [“SQ- FMFO: A Novel Scalarized Multi-Objective Q-Learning Approach for Fuzzy Membership Function Optimization”**(Under Review)**](https://www.springer.com/journal/521)
+- Deep Reinforcement Learning based stochastic function approximation for A* search in solving traveling salesman problem.**(On Going)**
+- Robust reinforcement learning against FGSM and imitation learning based adversarial attack.**(On Going)**
 <br><br>
 
 **Freelance Writing** _(Mar 2020 - Present)_ <br>
