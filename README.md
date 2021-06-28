@@ -47,6 +47,12 @@ Architecture & Design etc.
 - Deep Reinforcement Learning based stochastic function approximation for A* search in solving traveling salesman problem.**(On Going)**
 - Robust reinforcement learning against FGSM and imitation learning based adversarial attack.**(On Going)**
 <br><br>
+## Technical Skills
+- **Programming Languages**:  Python, C, C++, C#, Java, Swift, Linux Shell, XML, HTML, Javascript, PHP
+- **Packages/ Library**:  TensorFlow, PyTorch, Keras, OpenAI Gym, NumPy, OpenCV
+- **Database**: SQL, MySQL, MongoDB
+- **Microcontroller**:  Arduino, x86, Atmega32 
+<br><br>
 
 ## Projects
 - [Qmix on Star Craft Environment: colab](https://github.com/asifurrahman1/qmix_google_colab)
