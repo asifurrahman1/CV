@@ -4,7 +4,7 @@ Lecturer, Department of Computer Science & Engineering <br>
 [Rajshahi University of Engineering & Technology](https://www.cse.ruet.ac.bd) <br>
 Bangladesh <br>
 
-[Email](mailto:asifurrahman1@gmail.com) / [Website]((https://www.cse.ruet.ac.bd/asifurrahman)) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/asifurrahman1/) 
+[Email](mailto:asifurrahman1@gmail.com) / [Website](https://www.cse.ruet.ac.bd/asifurrahman) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/asifurrahman1/) 
 
 ## 👩🏼‍💻 Technical Experience
 
