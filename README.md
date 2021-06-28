@@ -1,6 +1,8 @@
 # Md Asifur Rahman
 
-_Software engineer (and sometimes still a journalist) based in Berlin, Germany_ <br>
+Lecturer, Department of Computer Science & Engineering <br>
+Rajshahi University of Engineering & Technology <br>
+Bangladesh <br>
 
 [Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
 
