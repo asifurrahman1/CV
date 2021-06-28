@@ -1,7 +1,7 @@
 # Md Asifur Rahman
 
-Lecturer, Department of Computer Science & Engineering <br>
-Rajshahi University of Engineering & Technology <br>
+[Lecturer, Department of Computer Science & Engineering](https://www.cse.ruet.ac.bd/asifurrahman) <br>
+[Rajshahi University of Engineering & Technology](https://www.cse.ruet.ac.bd) <br>
 Bangladesh <br>
 
 [Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
