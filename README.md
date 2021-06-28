@@ -14,7 +14,7 @@ Bangladesh, <br>
 
 ## 👩🏼‍💻 Teaching Experience
 
-**[Lecturer]**(https://www.cse.ruet.ac.bd/asifurrahman) _(Dec 2020 - Present)_ <br>
+[**Lecturer**](https://www.cse.ruet.ac.bd/asifurrahman) _(Dec 2020 - Present)_ <br>
 No-code platform that enables professionals to build interactive applications.
   - Implementing features that improve the UI and accessibility of the integrations platform
   - Extending a company-wide design system
