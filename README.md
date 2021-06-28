@@ -5,16 +5,18 @@ Bangladesh, <br>
 
 [Email](mailto:asifurrahman1@gmail.com) / [Website](https://www.cse.ruet.ac.bd/asifurrahman) / [LinkedIn](https://www.linkedin.com/in/asifur-rahman-33121892/) / [GitHub](https://github.com/asifurrahman1/) 
 
-## 👩🏼‍🎓 Education
-
+## Research Interest
+Reinforcement Learning, Imitation Learning, Optimization, Deep Learning, Computer Vision
+<br><br>
+<!-- ## 👩🏼‍🎓 Education -->
+## Education
 **Bachelor of Science** in Computer Science & Engineering<br>
 [Rajshahi University of Engineering & Technology](https://www.cse.ruet.ac.bd) - Rajshahi, Bangladesh _(2012 - 2016)_
 <br><br>
 
-## 👩🏼‍💻 Teaching Experience
-
+<!-- ## 👩🏼‍💻 Teaching Experience -->
+## Teaching Experience
 [**Lecturer**](https://www.cse.ruet.ac.bd/asifurrahman), [Department of Computer Science & Engineering](https://www.cse.ruet.ac.bd/), [Rajshahi University of Engineering & Technology](https://www.cse.ruet.ac.bd)  _(July 2017 - Present)_ <br>
-No-code platform that enables professionals to build interactive applications.
   - Implementing features that improve the UI and accessibility of the integrations platform
   - Extending a company-wide design system
   - **_Technologies used:_** HTML, CSS, Vue, TypeScript, Jest, Testing Library, Sass, Web Components (LitElement).
