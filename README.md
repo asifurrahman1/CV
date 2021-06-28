@@ -3,10 +3,8 @@ Department of Computer Science & Engineering, <br>
 Rajshahi University of Engineering & Technology (RUET), <br>
 Bangladesh, <br> -->
 
-:email: [asifurrahman1@gmail.com](mailto:asifurrahman1@gmail.com) <br>
-:email: [asifurrahman@cse.ruet.ac.bd](mailto:asifurrahman@cse.ruet.ac.bd) <br>
-:telephone_receiver: +880 1620 455 183 <br>
-[LinkedIn](https://www.linkedin.com/in/asifur-rahman-33121892/) | [GitHub](https://github.com/asifurrahman1/)
+[email](mailto:asifurrahman1@gmail.com) | [LinkedIn](https://www.linkedin.com/in/asifur-rahman-33121892/) | [GitHub](https://github.com/asifurrahman1/) | [Mobile: +880 1620 455 183]()
+
 
 
 ## Research Interest
