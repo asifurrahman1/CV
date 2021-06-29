@@ -10,7 +10,7 @@ Bangladesh, <br> -->
 
 
 ## Research Interest
-[Computer Vision](),[Reinforcement Learning](),[Deep Learning](), [Imitation Learning](), [Optimization]()
+[Computer Vision](), [Reinforcement Learning](), [Deep Learning](), [Imitation Learning](), [Optimization]()
 <br><br>
 
 
