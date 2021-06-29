@@ -45,7 +45,7 @@ Architecture & Design etc.
 - Apu Chandraw Shill, **Md Asifur Rahman**, ["Plant Disease Detection Based on YOLOv3 and YOLOv4"](https://conferences.ieee.org/conferences_events/conferences/conferencedetails/53878). _**(2021)**_
 - Bodrunnessa Badhon, Mir Md Jahangir Kabir, **Md Asifur Rahman**, and Shuxiang Xu, [“SQ- FMFO: A Novel Scalarized Multi-Objective Q-Learning Approach for Fuzzy Membership Function Optimization”**(Under Review)**](https://www.springer.com/journal/521)
 - Deep Reinforcement Learning based stochastic function approximation for A* search in solving traveling salesman problem.**(On Going)**
-- Robust reinforcement learning against FGSM and imitation learning based adversarial attack.**(On Going)**
+- Robust reinforcement learning against FGSM and imitation learning (GAN based -GAIL, AIRL, EAIRL) based adversarial attack.**(On Going)**
 <br><br>
 
 ## Technical Skills
