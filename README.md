@@ -10,7 +10,7 @@ Bangladesh, <br> -->
 
 
 ## Research Interest
-[Computer Vision](), [Reinforcement Learning](), [Deep Learning](), [Imitation Learning](), [Optimization]()
+[Reinforcement Learning](), [Autonomous IoT](), [Cloud Manufacturing](), [Explainable AI (XAI)]()
 <br><br>
 
 
