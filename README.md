@@ -10,7 +10,7 @@ Bangladesh, <br> -->
 
 
 ## Research Interest
-[Reinforcement Learning](), [Autonomous IoT](), [Cloud Manufacturing](), [Explainable AI (XAI)]()
+[Reinforcement Learning](), [Imitation Learning](), [Generative Adversarial Network](), [Computer Vision]()
 <br><br>
 
 
