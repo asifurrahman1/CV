@@ -24,7 +24,7 @@ Bangladesh, <br> -->
 
 
 ## Teaching Experience
-[**Lecturer**](https://www.cse.ruet.ac.bd/asifurrahman), [Department of Computer Science & Engineering](https://www.cse.ruet.ac.bd/), [Rajshahi University of Engineering & Technology (RUET)](https://www.cse.ruet.ac.bd)  _(July 2017 - Present)_ <br>
+[**Assistant Professor**](https://www.cse.ruet.ac.bd/asifurrahman), [Department of Computer Science & Engineering](https://www.cse.ruet.ac.bd/), [Rajshahi University of Engineering & Technology (RUET)](https://www.cse.ruet.ac.bd)  _(July 2017 - Present)_ <br>
   - Teach undergraduate courses such as : C, C++, Java programming Language, Object Oriented
 Programming, Data Structure, Operating System (Linux Scripting), Software Engineering, Computer
 Architecture & Design etc.
