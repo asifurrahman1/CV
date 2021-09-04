@@ -45,7 +45,7 @@ Architecture & Design etc.
 - Apu Chandraw Shill, **Md Asifur Rahman**, ["Plant Disease Detection Based on YOLOv3 and YOLOv4"](https://conferences.ieee.org/conferences_events/conferences/conferencedetails/53878). _**(2021)**_
 - **Md Asifur Rahman**, Bodrunnessa Badhon, [“A Deep Reinforcement Learning Based Fuzzy Membership Function Optimization for Fuzzy Association Rule Mining”**(Under Review-Journal of Intelligent Fuzzy Systems)**](https://www.iospress.com/catalog/journals/journal-of-intelligent-fuzzy-systems)
 - Bodrunnessa Badhon, Mir Md Jahangir Kabir, **Md Asifur Rahman**, and Shuxiang Xu, [“SQ- FMFO: A Novel Scalarized Multi-Objective Q-Learning Approach for Fuzzy Membership Function Optimization”**(Under Review-Neural Computing and Applications)**](https://www.springer.com/journal/521)
-- **Md Asifur Rahman**, Bodrunnessa Badhon, [“A Novel Approach in Evaluating Mobile Usage Based Implicit Authentication using Behavior Cloning”**(Under Review)**]
+- **Md Asifur Rahman**, Bodrunnessa Badhon, [“A Novel Approach in Evaluating Mobile Usage Based Implicit Authentication using Behavior Cloning”**(Under Review)**]()
 - Deep Reinforcement Learning Based Dynamic Character Segmentation for OCR.**(On Going)**
 - Robust Reinforcement Learning Against Imitation Learning (GAN based -GAIL, AIRL, EAIRL) Based Adversarial Attack.**(On Going)**
 <br><br>
