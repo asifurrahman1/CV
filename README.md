@@ -44,6 +44,8 @@ Architecture & Design etc.
 - **Md Asifur Rahman**, Boshir Ahmed, Md Ali Hossian, and Md Nazrul Islam Mondal, [“An adaptive background modeling based on modified running gaussian average method”](https://ieeexplore.ieee.org/abstract/document/7912961). _**(2017)**_
 - Apu Chandraw Shill, **Md Asifur Rahman**, ["Plant Disease Detection Based on YOLOv3 and YOLOv4"](https://conferences.ieee.org/conferences_events/conferences/conferencedetails/53878). _**(2021)**_
 - Bodrunnessa Badhon, Mir Md Jahangir Kabir, **Md Asifur Rahman**, and Shuxiang Xu, [“SQ- FMFO: A Novel Scalarized Multi-Objective Q-Learning Approach for Fuzzy Membership Function Optimization”**(Under Review)**](https://www.springer.com/journal/521)
+- **Md Asifur Rahman**, Bodrunnessa Badhon, [“A Deep Reinforcement Learning Based Fuzzy Membership Function Optimization for Fuzzy Association Rule Mining”**(Under Review)**](https://www.iospress.com/catalog/journals/journal-of-intelligent-fuzzy-systems)
+- **Md Asifur Rahman**, Bodrunnessa Badhon, [“A Novel Approach in Evaluating Mobile Usage Based Implicit Authentication using Behavior Cloning”**(Under Review)**](https://www.iospress.com/catalog/journals/journal-of-intelligent-fuzzy-systems)
 - Deep Reinforcement Learning based stochastic function approximation for A* search in solving traveling salesman problem.**(On Going)**
 - Robust reinforcement learning against FGSM and imitation learning (GAN based -GAIL, AIRL, EAIRL) based adversarial attack.**(On Going)**
 <br><br>
