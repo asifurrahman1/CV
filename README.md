@@ -10,7 +10,7 @@ Bangladesh, <br> -->
 
 
 ## Research Interest
-[Reinforcement Learning](), [Imitation Learning](), [Generative Adversarial Network](), [Computer Vision]()
+[Reinforcement Learning](), [Imitation Learning](), [Generative Adversarial Network](), [Formal Method]()
 <br><br>
 
 
