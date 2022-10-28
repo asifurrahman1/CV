@@ -41,13 +41,15 @@ Architecture & Design etc.
   - Supervise undergraduate project and thesis.
   - Perform relevant academic and administrative duties.
   - Conduct academic research.
-<br><br>  
+<br><br> 
+
 # Leadership Experience
  - Focal Point of the Department of Computer Science & Engineering, RUET  _**(2018 - Present)**_ 
  - Assistant Director, Mobile Games and Application Development Lab, RUET _**(2018 - Present)**_
  - Course Advisor of 62 Undergraduate Student _**(2017 - Present)**_
  - Treasurer, Dhaka Nibash Somiti (Community Organization), RUET  _**(2017 - Present)**_
 <br><br>
+
 # Research & Publication
 - **Md Asifur Rahman**, Sarra Alqahtani, “Adversarial Behavioral Exploration for Safe Reinforcement Learning”**(Under Review)-Association for the Advancement of Artificial Intelligence (AAAI 23)**
 - Tongtong Liu, Joe McCalmon, **Md Asifur Rahman**, Cameron Lischke, Talal Halabi, Sarra Alqahtani, “Weaponizing Actions in Multi-Agent Reinforcement Learning: Theoretical and Empirical Study on Security and Robustness”**(Accepted)-International Conference on Principles and Practice of Multi-Agent Systems (PRIMA 2022)**
@@ -56,6 +58,7 @@ Architecture & Design etc.
 - Apu Chandraw Shill, **Md Asifur Rahman**, ["Plant Disease Detection Based on YOLOv3 and YOLOv4"](https://ieeexplore.ieee.org/document/9528179). _**(2021)**_
 - **Md Asifur Rahman**, Boshir Ahmed, Md Ali Hossian, and Md Nazrul Islam Mondal, [“An adaptive background modeling based on modified running gaussian average method”](https://ieeexplore.ieee.org/abstract/document/7912961). _**(2017)**_
 <br><br>
+
 # Technical Skills
 - **Programming Languages**:  Python, C, C++, C#, Java, Swift, Linux Shell, XML, HTML, Javascript, PHP
 - **Packages/ Library**:  TensorFlow, PyTorch, Keras, OpenAI Gym, MuJoCo, SciPy, Pandas, Django-REST, Laravel ,OpenCV
@@ -72,6 +75,7 @@ Architecture & Design etc.
 - [International Conference on Electrical & Electronic Engineering (ICEEE 2021)-Website](http://iceee-ruet.org/)
 - [Ruet CSE Fest-Website](https://github.com/asifurrahman1/ruetcsefest)
 <br><br> -->
+
 # Scholarships
 - Wake Forest Full Tuition Scholarship _**(2022-2023)**_
 - University Merit Scholarship _**(2012-2016)**_
