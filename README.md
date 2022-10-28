@@ -28,13 +28,13 @@ Bangladesh, <br> -->
 <br><br>
 
 ## Professional Experience
-#### **Research Assistant**,[Wake Forest University](https://www.wfu.edu/) - Winston-Salem, NC, United States _(January 2022 - Present)_ <br>
-  - Work on National Science Foundation (NSF)(https://www.nsf.gov/awardsearch/showAward?AWD_ID=2105007) funded resarch projects. 
+#### **Research Assistant**, [Wake Forest University](https://www.wfu.edu/) - Winston-Salem, NC, United States _(January 2022 - Present)_ <br>
+  - Work on National Science Foundation [(NSF)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2105007) funded resarch projects. 
   - Develop safety learning apporach for reinforcement learning (RL) agent.
   - Implement RL agent and environment from scratch in python.
   - Study current state-of-the-arts in RL and AI safety.
   - Prepare and publish manuscripts. 
-#### **Assistant Professor**(https://www.cse.ruet.ac.bd/asifurrahman), [Department of Computer Science & Engineering](https://www.cse.ruet.ac.bd/), [Rajshahi University of Engineering & Technology (RUET)](https://www.cse.ruet.ac.bd)  _(July 2017 - Present)_ <br>
+#### **[Assistant Professor](https://www.cse.ruet.ac.bd/asifurrahman)**, [Department of Computer Science & Engineering](https://www.cse.ruet.ac.bd/), [Rajshahi University of Engineering & Technology (RUET)](https://www.cse.ruet.ac.bd)  _(July 2017 - Present)_ <br>
   - Teach undergraduate courses such as : C, C++, Java programming Language, Object Oriented
 Programming, Data Structure, Operating System (Linux Scripting), Software Engineering, Computer
 Architecture & Design etc.
