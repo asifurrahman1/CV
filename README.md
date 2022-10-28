@@ -10,7 +10,7 @@ United States, <br> -->
 
 
 ## Research Interest
-[Reinforcement Learning](), [Imitation Learning](), [Generative Adversarial Network](), [Formal Method]()
+[Reinforcement Learning](), [AI Safety](), [Explainable AI](), [Deep Learning](), [Data Mining]()
 <br><br>
 
 
