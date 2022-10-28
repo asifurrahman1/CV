@@ -19,7 +19,7 @@ Bangladesh, <br> -->
 [Wake Forest University](https://www.wfu.edu/) - Winston-Salem, NC, United States _(2022 - Present)_
 - **CGPA:** N/A 
 - **Supervisor**: Dr. Sarra Alqahtani
-- **Research Topic**: “Safety in Reinforcement Learning”
+- **Research Topic**: “Safety in Reinforcement Learning”<br>
 **Bachelor of Science** in Computer Science & Engineering<br>
 [Rajshahi University of Engineering & Technology (RUET)](https://www.cse.ruet.ac.bd) - Rajshahi, Bangladesh _(2012 - 2016)_
 - **CGPA:** 3.74 out of 4.00 **Position:** 4th out of 56 students.
