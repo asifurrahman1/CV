@@ -15,12 +15,12 @@ Bangladesh, <br> -->
 
 
 ## Education
-### **Master of Science** in Computer Science & Engineering<br>
+#### **Master of Science** in Computer Science & Engineering<br>
 [Wake Forest University](https://www.wfu.edu/) - Winston-Salem, NC, United States _(2022 - Present)_
 - **CGPA:** N/A 
 - **Supervisor**: Dr. Sarra Alqahtani
 - **Research Topic**: “Safety in Reinforcement Learning”<br>
-### **Bachelor of Science** in Computer Science & Engineering<br>
+#### **Bachelor of Science** in Computer Science & Engineering<br>
 [Rajshahi University of Engineering & Technology (RUET)](https://www.cse.ruet.ac.bd) - Rajshahi, Bangladesh _(2012 - 2016)_
 - **CGPA:** 3.74 out of 4.00 **Position:** 4th out of 56 students.
 - **Undergraduate Thesis Supervisor**: Prof. Dr. Boshir Ahmed
@@ -28,13 +28,13 @@ Bangladesh, <br> -->
 <br><br>
 
 ## Professional Experience
-[**Research Assistant**],[Wake Forest University](https://www.wfu.edu/) - Winston-Salem, NC, United States _(January 2022 - Present)_ <br>
+#### **Research Assistant**,[Wake Forest University](https://www.wfu.edu/) - Winston-Salem, NC, United States _(January 2022 - Present)_ <br>
   - Work on National Science Foundation (NSF)(https://www.nsf.gov/awardsearch/showAward?AWD_ID=2105007) funded resarch projects. 
   - Develop safety learning apporach for reinforcement learning (RL) agent.
   - Implement RL agent and environment from scratch in python.
   - Study current state-of-the-arts in RL and AI safety.
   - Prepare and publish manuscripts. 
-[**Assistant Professor**](https://www.cse.ruet.ac.bd/asifurrahman), [Department of Computer Science & Engineering](https://www.cse.ruet.ac.bd/), [Rajshahi University of Engineering & Technology (RUET)](https://www.cse.ruet.ac.bd)  _(July 2017 - Present)_ <br>
+#### **Assistant Professor**(https://www.cse.ruet.ac.bd/asifurrahman), [Department of Computer Science & Engineering](https://www.cse.ruet.ac.bd/), [Rajshahi University of Engineering & Technology (RUET)](https://www.cse.ruet.ac.bd)  _(July 2017 - Present)_ <br>
   - Teach undergraduate courses such as : C, C++, Java programming Language, Object Oriented
 Programming, Data Structure, Operating System (Linux Scripting), Software Engineering, Computer
 Architecture & Design etc.
