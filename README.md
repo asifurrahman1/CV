@@ -43,13 +43,6 @@ Architecture & Design etc.
   - Conduct academic research.
 <br><br> 
 
-# Leadership Experience
- - Focal Point of the Department of Computer Science & Engineering, RUET  _**(2018 - 2021)**_ 
- - Assistant Director, Mobile Games and Application Development Lab, RUET _**(2018 - 2021)**_
- - Course Advisor of 62 Undergraduate Student _**(2017 - 2021)**_
- - Treasurer, Dhaka Nibash Somiti (Community Organization), RUET  _**(2017 - 2021)**_
-<br><br>
-
 # Research & Publication
 - **Md Asifur Rahman**, Sarra Alqahtani, “Adversarial Behavioral Exploration for Safe Reinforcement Learning”**(Under Review)-Association for the Advancement of Artificial Intelligence (AAAI 23)**
 - Tongtong Liu, Joe McCalmon, **Md Asifur Rahman**, Cameron Lischke, Talal Halabi, Sarra Alqahtani, “Weaponizing Actions in Multi-Agent Reinforcement Learning: Theoretical and Empirical Study on Security and Robustness”**(Accepted)-International Conference on Principles and Practice of Multi-Agent Systems (PRIMA 2022)**
@@ -101,6 +94,13 @@ Architecture & Design etc.
 - University Merit Scholarship _**(2012-2016)**_
 - Higher Secondary Certificate Scholarship _**(2011)**_
 - Secondary School Certificate Scholarship _**(2009)**_
+<br><br>
+
+# Leadership Experience
+ - Focal Point of the Department of Computer Science & Engineering, RUET  _**(2018 - 2021)**_ 
+ - Assistant Director, Mobile Games and Application Development Lab, RUET _**(2018 - 2021)**_
+ - Course Advisor of 62 Undergraduate Student _**(2017 - 2021)**_
+ - Treasurer, Dhaka Nibash Somiti (Community Organization), RUET  _**(2017 - 2021)**_
 <br><br>
 
 # Languages
