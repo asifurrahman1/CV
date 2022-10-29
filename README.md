@@ -86,13 +86,13 @@ Architecture & Design etc.
 - [Project 3: Cluster analysis- Cycling Dataset, MACCSKeysFingerprints Dataset](https://github.com/asifurrahman1/Datamining-project-3)
 - [Project 4: Live stock market analysis & prediction - yfinance](https://github.com/asifurrahman1/DM_Project4_stock_market_analysis)
 
-#### Website Development
+#### Website Development (Bootstrap, Laravel, MySQL)
 - [International Conference on Electrical, Computer & Telecommunication Engineering (ICECTE)](https://ieeexplore.ieee.org/xpl/conhome/9303508/proceeding) [-Website](https://github.com/asifurrahman1/ICECTE)
 - [International Conference on Electrical & Electronic Engineering (ICEEE 2021)-Website](http://iceee-ruet.org/)
 - [Ruet CSE Fest-Website](https://github.com/asifurrahman1/ruetcsefest)
 <br><br> 
 
-#### IOS application
+#### IOS application (Swift 2, Firebase) 
 - [Spoken English - iOS application](https://github.com/asifurrahman1/SpokenEnglishIOSv2)
 <br><br> 
 
