@@ -44,10 +44,10 @@ Architecture & Design etc.
 <br><br> 
 
 # Leadership Experience
- - Focal Point of the Department of Computer Science & Engineering, RUET  _**(2018 - Present)**_ 
- - Assistant Director, Mobile Games and Application Development Lab, RUET _**(2018 - Present)**_
- - Course Advisor of 62 Undergraduate Student _**(2017 - Present)**_
- - Treasurer, Dhaka Nibash Somiti (Community Organization), RUET  _**(2017 - Present)**_
+ - Focal Point of the Department of Computer Science & Engineering, RUET  _**(2018 - 2021)**_ 
+ - Assistant Director, Mobile Games and Application Development Lab, RUET _**(2018 - 2021)**_
+ - Course Advisor of 62 Undergraduate Student _**(2017 - 2021)**_
+ - Treasurer, Dhaka Nibash Somiti (Community Organization), RUET  _**(2017 - 2021)**_
 <br><br>
 
 # Research & Publication
