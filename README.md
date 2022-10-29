@@ -66,15 +66,35 @@ Architecture & Design etc.
 - **Microcontroller**:  Arduino, x86, Atmega32 
 <br><br>
 
-<!-- ## Projects
+# Projects
+#### **Reinforcement Learning**
+- [AdvEx-RL: Adversarial Behavioral Exploration for Safe Reinforcement Learning](https://github.com/asifurrahman1/AdvEx-RL)
 - [Qmix on Star Craft Environment: colab](https://github.com/asifurrahman1/qmix_google_colab)
-- [OpenAI Gym Custom Environment Creation](https://github.com/asifurrahman1/Custom_GYM_grid_environment)
-- [Stochastic Function Aproximation for A* Search](https://github.com/asifurrahman1/A_star_Search_FN_Approximation/)
-- [Spoken English - iOS application](https://github.com/asifurrahman1/SpokenEnglishIOSv2)
+- [Adversarial Inverse Reinforcement Learning](https://github.com/asifurrahman1/AIRL)
+- [Proximal policy optimization](https://github.com/asifurrahman1/PPO)
+<br><br>
+
+#### **Deep Learning**
+- [DL Final Project: Pix2Pix CGAN](https://github.com/asifurrahman1/Pix2PixCGAN)
+- [DL Project 1: Model activation analysis & generalization](https://github.com/asifurrahman1/DL_project_activation_observation_and_fine_tuning)
+- [DL Project 2: Recurrent Neural Network](https://github.com/asifurrahman1/DL_project_RNN)
+<br><br>
+
+#### **Data Mining**
+- [Project 1: Parsing, exploratory data analysis and prediction- Cycling Dataset](https://github.com/asifurrahman1/Datamining-project-2)
+- [Project 2: Parsing, exploratory data analysis and prediction- Medicine Inhibition & HMDB Dataset](https://github.com/asifurrahman1/Datamining-project-3)
+- [Project 3: Cluster analysis- Cycling Dataset, MACCSKeysFingerprints Dataset](https://github.com/asifurrahman1/Datamining-project-3)
+- [Project 4: Live stock market analysis & prediction - yfinance](https://github.com/asifurrahman1/DM_Project4_stock_market_analysis)
+
+#### Website Development
 - [International Conference on Electrical, Computer & Telecommunication Engineering (ICECTE)](https://ieeexplore.ieee.org/xpl/conhome/9303508/proceeding) [-Website](https://github.com/asifurrahman1/ICECTE)
 - [International Conference on Electrical & Electronic Engineering (ICEEE 2021)-Website](http://iceee-ruet.org/)
 - [Ruet CSE Fest-Website](https://github.com/asifurrahman1/ruetcsefest)
-<br><br> -->
+<br><br> 
+
+#### IOS application
+- [Spoken English - iOS application](https://github.com/asifurrahman1/SpokenEnglishIOSv2)
+<br><br> 
 
 # Scholarships
 - Wake Forest Full Tuition Scholarship _**(2022-2023)**_
