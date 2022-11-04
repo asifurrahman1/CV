@@ -3,7 +3,7 @@
 Winston-Salem, NC 27106, <br>
 United States, <br> -->
 
-[Email](mailto:rahmm21@wfu.edu) | [LinkedIn](https://www.linkedin.com/in/asifur-rahman-33121892/) | [GitHub](https://github.com/asifurrahman1/) <br>
+[Email](mailto:rahmm21@wfu.edu) | [LinkedIn](https://www.linkedin.com/in/asifur-rahman-33121892/) | [GitHub](https://github.com/asifurrahman1/) | [Google Scholar](https://scholar.google.com.au/citations?user=qKYhKGEAAAAJ&hl=en)<br>
 [+336 582 3038]()
 
 # Research Interest
