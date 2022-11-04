@@ -33,7 +33,7 @@ United States, <br> -->
   - Prepare and publish manuscripts. 
 <br><br>
 
-#### **[Assistant Professor](https://www.cse.ruet.ac.bd/asifurrahman)**, [Department of Computer Science & Engineering](https://www.cse.ruet.ac.bd/), [Rajshahi University of Engineering & Technology (RUET)](https://www.cse.ruet.ac.bd)  _(July 2017 - 2022)(Currently on study leave)_ <br>
+#### **[Assistant Professor](https://www.cse.ruet.ac.bd/asifurrahman)**, [Department of Computer Science & Engineering](https://www.cse.ruet.ac.bd/), [Rajshahi University of Engineering & Technology (RUET)](https://www.cse.ruet.ac.bd)  _(May 2021 - 2022)(Currently on study leave)_ <br>
   - Teach undergraduate courses such as : C, C++, Java programming Language, Object Oriented
 Programming, Data Structure, Operating System (Linux Scripting), Software Engineering, Computer
 Architecture & Design etc.
@@ -42,6 +42,20 @@ Architecture & Design etc.
   - Perform relevant academic and administrative duties.
   - Conduct academic research.
 <br><br> 
+
+#### **[Lecturer](https://www.cse.ruet.ac.bd/asifurrahman)**, [Department of Computer Science & Engineering](https://www.cse.ruet.ac.bd/), [Rajshahi University of Engineering & Technology (RUET)](https://www.cse.ruet.ac.bd)  _(July 2017 - April 2021)_ <br>
+  - Teach undergraduate courses such as : C, C++, Java programming Language, Object Oriented
+Programming, Computer Fundamentals etc.
+  - Course advisor of 180 students.
+  - Perform relevant academic and administrative duties.
+  - Conduct academic research.
+<br><br>
+
+#### **[Lecturer]()**, [Department of Software Engineering](), [Daffodil International University](https://daffodilvarsity.edu.bd/)  _(January 2017 - April 2017)_ <br>
+  - Teach undergraduate courses such as : C, C++, Software Engineering, Computer Fundamentals etc.
+  - Course advisor of 180 students.
+  - Conduct academic research.
+<br><br>
 
 # Research & Publication
 - **Md Asifur Rahman**, Sarra Alqahtani, “Adversarial Behavioral Exploration for Safe Reinforcement Learning”**(Under Review)-Association for the Advancement of Artificial Intelligence (AAAI 23)**
