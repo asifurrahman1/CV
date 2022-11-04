@@ -53,7 +53,6 @@ Programming, Computer Fundamentals etc.
 
 #### **[Lecturer]()**, [Department of Software Engineering](), [Daffodil International University](https://daffodilvarsity.edu.bd/)  _(January 2017 - April 2017)_ <br>
   - Teach undergraduate courses such as : C, C++, Software Engineering, Computer Fundamentals etc.
-  - Course advisor of 180 students.
   - Conduct academic research.
 <br><br>
 
