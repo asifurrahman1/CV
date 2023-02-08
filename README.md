@@ -10,7 +10,7 @@ United States, <br> -->
 [Reinforcement Learning](), [AI Safety](), [Explainable AI](), [Deep Learning](), [Data Mining]()
 <br>
 # Education
-#### **Master of Science** in Computer Science & Engineering<br>
+#### **Master of Science** in Computer Science<br>
 [Wake Forest University](https://www.wfu.edu/) - Winston-Salem, NC, United States _(2022 - Present)_
 - **CGPA:** N/A 
 - **Supervisor**: [Dr. Sarra Alqahtani](https://alqahtas.sites.wfu.edu/)
