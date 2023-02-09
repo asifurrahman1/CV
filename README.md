@@ -25,7 +25,7 @@ United States, <br> -->
 <br><br>
 
 # Professional Experience
-#### **Research Assistant**, [Wake Forest University](https://www.wfu.edu/) - Winston-Salem, NC, United States _(January 2022 - Present)_ <br>
+#### **Graduate Research Assistant**, [Wake Forest University](https://www.wfu.edu/) - Winston-Salem, NC, United States _(January 2022 - Present)_ <br>
   - Work on National Science Foundation [(NSF)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2105007) funded resarch projects. 
   - Develop safety learning apporach for reinforcement learning (RL) agent.
   - Implement RL agent and environment from scratch in python.
