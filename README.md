@@ -12,7 +12,7 @@ United States, <br> -->
 # Education
 #### **Master of Science** in Computer Science<br>
 [Wake Forest University](https://www.wfu.edu/) - Winston-Salem, NC, United States _(2022 - Present)_
-- **CGPA:** N/A 
+- **CGPA:** 3.93 (Current)
 - **Supervisor**: [Dr. Sarra Alqahtani](https://alqahtas.sites.wfu.edu/)
 - **Research Topic**: “Safety in Reinforcement Learning”
 <br><br>
