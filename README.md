@@ -26,14 +26,12 @@ United States, <br> -->
 
 # Professional Experience
 #### **Graduate Research Assistant**, [Wake Forest University](https://www.wfu.edu/) - Winston-Salem, NC, United States _(January 2022 - Present)_ <br>
-  - Working on developing a robust and safe reinforcement learning algorithm as part of the National Science Foundation (NSF) funded resarch project [CRII](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2105007). 
+  - Working on developing a robust and safe reinforcement learning algorithm as part of the National Science Foundation (NSF)-funded research project [CRII](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2105007). 
   - Prepare and publish a relevant manuscript about our current studies.
 <br><br>
 
 #### **[Assistant Professor](https://www.cse.ruet.ac.bd/asifurrahman)**, [Department of Computer Science & Engineering](https://www.cse.ruet.ac.bd/), [Rajshahi University of Engineering & Technology (RUET)](https://www.cse.ruet.ac.bd)  _(May 2021 - 2022)(Currently on study leave)_ <br>
-  - Teach undergraduate courses such as : C, C++, Java programming Language, Object Oriented
-Programming, Data Structure, Operating System (Linux Scripting), Software Engineering, Computer
-Architecture & Design etc.
+  - Teach undergraduate courses such as Programming Language, Object-Oriented Programming, Data Structures, Software Engineering, and Operating System, among others.
   - Set exam questions, invigilate exams and evaluate answer scripts.
   - Supervise undergraduate project and thesis.
   - Perform relevant academic and administrative duties.
@@ -41,9 +39,7 @@ Architecture & Design etc.
 <br><br> 
 
 #### **[Lecturer](https://www.cse.ruet.ac.bd/asifurrahman)**, [Department of Computer Science & Engineering](https://www.cse.ruet.ac.bd/), [Rajshahi University of Engineering & Technology (RUET)](https://www.cse.ruet.ac.bd)  _(July 2017 - April 2021)_ <br>
-  - Teach undergraduate courses such as : C, C++, Java programming Language, Object Oriented
-Programming, Computer Fundamentals etc.
-  - Course advisor of 180 students.
+  - Teach undergraduate courses such as : Object-Oriented Programming, Computer Fundamentals, Software Engineering etc.
   - Perform relevant academic and administrative duties.
   - Conduct academic research.
 <br><br>
