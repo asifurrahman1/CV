@@ -26,11 +26,8 @@ United States, <br> -->
 
 # Professional Experience
 #### **Graduate Research Assistant**, [Wake Forest University](https://www.wfu.edu/) - Winston-Salem, NC, United States _(January 2022 - Present)_ <br>
-  - Work on National Science Foundation [(NSF)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2105007) funded resarch projects. 
-  - Develop safety learning apporach for reinforcement learning (RL) agent.
-  - Implement RL agent and environment from scratch in python.
-  - Study current state-of-the-arts in RL and AI safety.
-  - Prepare and publish manuscripts. 
+  - Working on developing a robust and safe reinforcement learning algorithm as part of a National Science Foundation (NSF) (https://www.nsf.gov/awardsearch/showAward?AWD_ID=2105007) funded resarch projects. 
+  - Prepare and publish a relevant manuscript about our current studies.
 <br><br>
 
 #### **[Assistant Professor](https://www.cse.ruet.ac.bd/asifurrahman)**, [Department of Computer Science & Engineering](https://www.cse.ruet.ac.bd/), [Rajshahi University of Engineering & Technology (RUET)](https://www.cse.ruet.ac.bd)  _(May 2021 - 2022)(Currently on study leave)_ <br>
@@ -55,8 +52,8 @@ Programming, Computer Fundamentals etc.
   - Teach undergraduate courses such as : C, C++, Software Engineering, Computer Fundamentals etc.
   - Conduct academic research.
 <br><br>
-
 # Research & Publication
+- **Md Asifur Rahman**, Sarra Alqahtani, “Task-Agnostic Safety for Reinforcement Learning”**(Under Review)-Uncertainty in Artificial Intelligence (UAI 23)**
 - **Md Asifur Rahman**, Sarra Alqahtani, “Adversarial Behavioral Exclusion for Safe Reinforcement Learning”**(Under Review)-International Joint Conference on Artificial Intelligence (IJCAI 23)**
 - Tongtong Liu, Joe McCalmon, **Md Asifur Rahman**, Cameron Lischke, Talal Halabi, Sarra Alqahtani, [“Weaponizing Actions in Multi-Agent Reinforcement Learning: Theoretical and Empirical Study on Security and Robustness”](https://link.springer.com/chapter/10.1007/978-3-031-21203-1_21) _**(2022)**_
 - Bodrunnessa Badhon, , Mir Md. Jahangir Kabir, **Md Asifur Rahman**, Shuxiang Xu ["SQ-FMFO: A Novel Scalarized Multi-Objective Q-Learning Approach for Fuzzy Membership Function Optimization"](https://link.springer.com/article/10.1007/s40815-022-01381-1) _**(2022)**_
@@ -64,17 +61,21 @@ Programming, Computer Fundamentals etc.
 - Apu Chandraw Shill, **Md Asifur Rahman**, ["Plant Disease Detection Based on YOLOv3 and YOLOv4"](https://ieeexplore.ieee.org/document/9528179) _**(2021)**_
 - **Md Asifur Rahman**, Boshir Ahmed, Md Ali Hossian, and Md Nazrul Islam Mondal, [“An adaptive background modeling based on modified running gaussian average method”](https://ieeexplore.ieee.org/abstract/document/7912961). _**(2017)**_
 <br><br>
-
 # Technical Skills
-- **Programming Languages**:  Python, C, C++, C#, Java, Swift, Linux Shell, XML, HTML, Javascript, PHP
-- **Packages/ Library**:  TensorFlow, PyTorch, Keras, OpenAI Gym, MuJoCo, SciPy, Pandas, Django-REST, Laravel ,OpenCV
+- **Programming Languages**:  Python, C, C++, Java, MATLAB, Swift 2, Bash Script, HTML, Javascript, PHP
+- **Packages/ Library**:  TensorFlow, PyTorch, Keras, Scikit-learn, SciPy, Pandas, OpenMP, Django-REST, Laravel
 - **Database**: SQL, MySQL, MongoDB
 - **Microcontroller**:  Arduino, x86, Atmega32 
 <br><br>
+# Relevant Coursework
+## **Graduate**
+- Non-linear optimization, Deep Learning, Data Mining, Theory of Algorithm, Theory of Computation, Advanced Parallel Computation  
+## **Undergraduate**
+- Applied Statistics & Queuing theory, Artificial Intelligence & Expert System, Neural Networks & Fuzzy Systems, Parallel & Distributed Processing, Digital Image Processing, Digital Signal Processing, Data Communication, Computer Network, Network Security, Peripheral & Interfacings, Software Engineering, Operating System, Discrete Mathematics, Database System, Numerical Method, Algorithm Design & Analysis, Object Oriented Programming, Data Structure, Computer Programming, Microprocessors & Assembly Language, Computer Architecture 
 
 # Projects
 #### **Reinforcement Learning**
-- [AdvEx-RL: Adversarial Behavioral Exploration for Safe Reinforcement Learning](https://github.com/asifurrahman1/AdvEx-RL)
+- [AdvEx-RL: Adversarial Behavioral Exclusion for Safe Reinforcement Learning](https://github.com/asifurrahman1/AdvEx-RL)
 - [Qmix on Star Craft Environment: colab](https://github.com/asifurrahman1/qmix_google_colab)
 - [Adversarial Inverse Reinforcement Learning](https://github.com/asifurrahman1/AIRL)
 - [Proximal policy optimization](https://github.com/asifurrahman1/PPO)
