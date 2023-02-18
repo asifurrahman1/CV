@@ -26,7 +26,7 @@ United States, <br> -->
 
 # Professional Experience
 #### **Graduate Research Assistant**, [Wake Forest University](https://www.wfu.edu/) - Winston-Salem, NC, United States _(January 2022 - Present)_ <br>
-  - Working on developing a robust and safe reinforcement learning algorithm as part of a National Science Foundation (NSF) (https://www.nsf.gov/awardsearch/showAward?AWD_ID=2105007) funded resarch projects. 
+  - Working on developing a robust and safe reinforcement learning algorithm as part of the National Science Foundation (NSF) funded resarch project CRII[(https://www.nsf.gov/awardsearch/showAward?AWD_ID=2105007)]. 
   - Prepare and publish a relevant manuscript about our current studies.
 <br><br>
 
@@ -68,10 +68,8 @@ Programming, Computer Fundamentals etc.
 - **Microcontroller**:  Arduino, x86, Atmega32 
 <br><br>
 # Relevant Coursework
-## **Graduate**
-- Non-linear optimization, Deep Learning, Data Mining, Theory of Algorithm, Theory of Computation, Advanced Parallel Computation  
-## **Undergraduate**
-- Applied Statistics & Queuing theory, Artificial Intelligence & Expert System, Neural Networks & Fuzzy Systems, Parallel & Distributed Processing, Digital Image Processing, Digital Signal Processing, Data Communication, Computer Network, Network Security, Peripheral & Interfacings, Software Engineering, Operating System, Discrete Mathematics, Database System, Numerical Method, Algorithm Design & Analysis, Object Oriented Programming, Data Structure, Computer Programming, Microprocessors & Assembly Language, Computer Architecture 
+- **Graduate:** Non-linear optimization, Deep Learning, Data Mining, Theory of Algorithm, Theory of Computation, Advanced Parallel Computation  
+- **Undergraduate** Applied Statistics & Queuing theory, Artificial Intelligence & Expert System, Neural Networks & Fuzzy Systems, Parallel & Distributed Processing, Digital Image Processing, Digital Signal Processing, Data Communication, Computer Network, Network Security, Peripheral & Interfacings, Software Engineering, Operating System, Discrete Mathematics, Database System, Numerical Method, Algorithm Design & Analysis, Object Oriented Programming, Data Structure, Computer Programming, Microprocessors & Assembly Language, Computer Architecture 
 
 # Projects
 #### **Reinforcement Learning**
