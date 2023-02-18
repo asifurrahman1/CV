@@ -26,7 +26,7 @@ United States, <br> -->
 
 # Professional Experience
 #### **Graduate Research Assistant**, [Wake Forest University](https://www.wfu.edu/) - Winston-Salem, NC, United States _(January 2022 - Present)_ <br>
-  - Working on developing a robust and safe reinforcement learning algorithm as part of the National Science Foundation (NSF) funded resarch project CRII[(https://www.nsf.gov/awardsearch/showAward?AWD_ID=2105007)]. 
+  - Working on developing a robust and safe reinforcement learning algorithm as part of the National Science Foundation (NSF) funded resarch project [CRII](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2105007). 
   - Prepare and publish a relevant manuscript about our current studies.
 <br><br>
 
