@@ -107,6 +107,7 @@ United States, <br> -->
 <br><br>
 
 # Leadership Experience
+ - Thesis supervision, RUET  _**(2020 - 2021)**_ 
  - Focal Point of the Department of Computer Science & Engineering, RUET  _**(2018 - 2021)**_ 
  - Assistant Director, Mobile Games and Application Development Lab, RUET _**(2018 - 2021)**_
  - Course Advisor of 62 Undergraduate Student _**(2017 - 2021)**_
