@@ -1,11 +1,6 @@
 theme: jekyll-theme-minimal
 baseurl: ""
 url: "https://asifurrahman1.github.io/CV/"
-analytics:
-  provider               : "google-gtag"
-  google:
-    measurement_id          : G-MDNNV2DYS6
-    anonymize_ip         : # true, false (default)
 title: Md Asifur Rahman (he/him)
 logo: /assests/img/pp.png
 
