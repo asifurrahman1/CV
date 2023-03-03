@@ -5,9 +5,16 @@ plugins: jekyll-remote-theme
 
 title: Md Asifur Rahman (he/him)
 logo: /assests/img/pp.png
-google_analytics: G-MDNNV2DYS6
+# google_analytics: G-MDNNV2DYS6
+
 
 url: "https://asifurrahman1.github.io/CV/"
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-MDNNV2DYS6"
+    anonymize_ip: false # default
 
 
 # description: Graduate Research Assistant,<br><a href="https://www.wfu.edu/">WFU,</a> United States
