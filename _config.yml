@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 remote_theme: jekyll/minima
-
+environment: production
 plugins: jekyll-remote-theme
 
 title: Md Asifur Rahman (he/him)
