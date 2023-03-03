@@ -1,4 +1,7 @@
 theme: jekyll-theme-minimal
+remote_theme: jekyll/minima
+
+plugins: jekyll-remote-theme
 
 title: Md Asifur Rahman (he/him)
 logo: /assests/img/pp.png
