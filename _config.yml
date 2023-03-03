@@ -10,11 +10,10 @@ logo: /assests/img/pp.png
 
 url: "https://asifurrahman1.github.io/CV/"
 
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "G-MDNNV2DYS6"
-    anonymize_ip: false # default
+provider: "google-gtag"
+google:
+  tracking_id: "G-MDNNV2DYS6"
+  anonymize_ip: false # default
 
 
 # description: Graduate Research Assistant,<br><a href="https://www.wfu.edu/">WFU,</a> United States
