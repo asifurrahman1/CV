@@ -1,8 +1,8 @@
 theme: jekyll-theme-minimal
 remote_theme: jekyll/minima
 
-url: "https://asifurrahman1.github.io/CV/"
-baseurl: 'CV/'
+# url: "https://asifurrahman1.github.io/CV/"
+# baseurl: 'CV/'
 
 logo: /assests/img/pp.png
 title: Md Asifur Rahman (he/him)
