@@ -1,17 +1,16 @@
 theme: jekyll-theme-minimal
 remote_theme: jekyll/minima
 
-plugins: jekyll-remote-theme
-
 environment: production
 
 title: Md Asifur Rahman (he/him)
 logo: /assests/img/pp.png
 
+url: "https://asifurrahman1.github.io/CV/"
+
 # Google Analytics
 google_analytics: G-MDNNV2DYS6
 
-url: "https://asifurrahman1.github.io/CV/"
 
 # provider: "google-gtag"
 # google:
