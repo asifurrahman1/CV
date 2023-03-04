@@ -1,23 +1,16 @@
 theme: jekyll-theme-minimal
 remote_theme: jekyll/minima
 
+url: "https://asifurrahman1.github.io/CV/"
+baseurl: 'CV/'
+
 logo: /assests/img/pp.png
 title: Md Asifur Rahman (he/him)
 
 environment: production
 
-
-
-url: "https://asifurrahman1.github.io/CV/"
-
 # Google Analytics
 google_analytics: G-MDNNV2DYS6
-
-
-# provider: "google-gtag"
-# google:
-#   tracking_id: "G-MDNNV2DYS6"
-#   anonymize_ip: false # default
 
 
 # description: Graduate Research Assistant,<br><a href="https://www.wfu.edu/">WFU,</a> United States
