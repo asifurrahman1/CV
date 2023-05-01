@@ -59,8 +59,9 @@ United States, <br> -->
 <br><br>
 # Technical Skills
 - **Programming Languages**:  Python, C, C++, Java, MATLAB, Swift 2, Bash Script, HTML, Javascript, PHP
-- **Packages/ Library**:  TensorFlow, PyTorch, Keras, Scikit-learn, SciPy, OpenAI Gym, MuJoCo, SafetyGym, Pandas, OpenMP, OpenMPI, Django-REST, Laravel
+- **Packages/ Library**:  TensorFlow, PyTorch, Keras, Scikit-learn, SciPy, OpenAI Gym, MuJoCo, SafetyGym, Pandas, OpenMP, OpenMPI, Django-REST, Laravel, React-JS
 - **Database**: SQL, MySQL, MongoDB
+- **Software Engineering**: Jira, Figma, Selenium, Balsamiq
 - **Microcontroller**:  Arduino, x86, Atmega32 
 <br><br>
 # Relevant Coursework
@@ -88,7 +89,7 @@ United States, <br> -->
 - [Project 3: Cluster analysis- Cycling Dataset, MACCSKeysFingerprints Dataset](https://github.com/asifurrahman1/Datamining-project-3)
 - [Project 4: Live stock market analysis & prediction - yfinance](https://github.com/asifurrahman1/DM_Project4_stock_market_analysis)
 
-#### **Advanced Parallel Computation **
+#### **Advanced Parallel Computation**
 - [Final Project: Implementation and analysis of Communication Avoiding Stochastic Gradient Descent (CA-SGD)]()
 <br><br>
 
