@@ -65,7 +65,7 @@ United States, <br> -->
 - **Microcontroller**:  Arduino, x86, Atmega32 
 <br><br>
 # Relevant Coursework
-- **Graduate:** Nonlinear optimization, Deep Learning, Data Mining, Theory of Algorithm, Theory of Computation, Advanced Parallel Computation  
+- **Graduate:** Nonlinear optimization, Deep Learning, Data Mining, Theory of Algorithm, Theory of Computation, Advanced Parallel Computation, Software Engineering, Operating System
 - **Undergraduate** Applied Statistics & Queuing theory, Artificial Intelligence & Expert System, Neural Networks & Fuzzy Systems, Parallel & Distributed Processing, Digital Image Processing, Digital Signal Processing, Data Communication, Computer Network, Network Security, Peripheral & Interfacings, Software Engineering, Operating System, Discrete Mathematics, Database System, Numerical Method, Algorithm Design & Analysis, Object Oriented Programming, Data Structure, Computer Programming, Microprocessors & Assembly Language, Computer Architecture 
 
 # Projects
