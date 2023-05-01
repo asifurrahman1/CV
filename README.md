@@ -50,7 +50,7 @@ United States, <br> -->
   - Conduct academic research.
 <br><br>
 # Research & Publication
-- **Md Asifur Rahman**, Sarra Alqahtani, “[Adversarial Behavioral Exclusion for Safe Reinforcement Learning](https://ijcai-23.org/)”*- International Joint Conference on Artificial Intelligence (IJCAI 23)*
+- **Md Asifur Rahman**, Sarra Alqahtani, “[Adversarial Behavioral Exclusion for Safe Reinforcement Learning](https://ijcai-23.org/)”*- International Joint Conference on Artificial Intelligence (IJCAI 23)* _**(2023)**_
 - Tongtong Liu, Joe McCalmon, **Md Asifur Rahman**, Cameron Lischke, Talal Halabi, Sarra Alqahtani, [“Weaponizing Actions in Multi-Agent Reinforcement Learning: Theoretical and Empirical Study on Security and Robustness”](https://link.springer.com/chapter/10.1007/978-3-031-21203-1_21) _**(2022)**_
 - Bodrunnessa Badhon, , Mir Md. Jahangir Kabir, **Md Asifur Rahman**, Shuxiang Xu ["SQ-FMFO: A Novel Scalarized Multi-Objective Q-Learning Approach for Fuzzy Membership Function Optimization"](https://link.springer.com/article/10.1007/s40815-022-01381-1) _**(2022)**_
 - Cameron Lischke, Tongtong Liu, Joe McCalmon, **Md Asifur Rahman**,Talal Halabi, Sarra Alqahtani, ["LSTM-Based Anomalous Behavior Detection in Multi-Agent Reinforcement Learning"](https://ieeexplore.ieee.org/abstract/document/9850343). _**(2022)**_
@@ -87,6 +87,10 @@ United States, <br> -->
 - [Project 2: Parsing, exploratory data analysis and prediction- Medicine Inhibition & HMDB Dataset](https://github.com/asifurrahman1/Datamining-project-3)
 - [Project 3: Cluster analysis- Cycling Dataset, MACCSKeysFingerprints Dataset](https://github.com/asifurrahman1/Datamining-project-3)
 - [Project 4: Live stock market analysis & prediction - yfinance](https://github.com/asifurrahman1/DM_Project4_stock_market_analysis)
+
+#### **Parallel Optimization**
+- [Final Project: Implementation and analysis of Communication Avoiding Stochastic Gradient Descent (CA-SGD)]()
+<br><br>
 
 #### Website Development (Bootstrap, Laravel, MySQL)
 - [International Conference on Electrical, Computer & Telecommunication Engineering (ICECTE)](https://ieeexplore.ieee.org/xpl/conhome/9303508/proceeding) [-Website](https://github.com/asifurrahman1/ICECTE)
