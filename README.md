@@ -88,7 +88,7 @@ United States, <br> -->
 - [Project 3: Cluster analysis- Cycling Dataset, MACCSKeysFingerprints Dataset](https://github.com/asifurrahman1/Datamining-project-3)
 - [Project 4: Live stock market analysis & prediction - yfinance](https://github.com/asifurrahman1/DM_Project4_stock_market_analysis)
 
-#### **Parallel Optimization**
+#### **Advanced Parallel Computation**
 - [Final Project: Implementation and analysis of Communication Avoiding Stochastic Gradient Descent (CA-SGD)]()
 <br><br>
 
