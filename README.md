@@ -50,7 +50,7 @@ United States, <br> -->
   - Conduct academic research.
 <br><br>
 # Research & Publication
-- **Md Asifur Rahman**, Sarra Alqahtani, “Adversarial Behavioral Exclusion for Safe Reinforcement Learning”**-International Joint Conference on Artificial Intelligence (IJCAI 23)**
+- **Md Asifur Rahman**, Sarra Alqahtani, “Adversarial Behavioral Exclusion for Safe Reinforcement Learning”**- [International Joint Conference on Artificial Intelligence (IJCAI 23)](https://ijcai-23.org/)**
 - Tongtong Liu, Joe McCalmon, **Md Asifur Rahman**, Cameron Lischke, Talal Halabi, Sarra Alqahtani, [“Weaponizing Actions in Multi-Agent Reinforcement Learning: Theoretical and Empirical Study on Security and Robustness”](https://link.springer.com/chapter/10.1007/978-3-031-21203-1_21) _**(2022)**_
 - Bodrunnessa Badhon, , Mir Md. Jahangir Kabir, **Md Asifur Rahman**, Shuxiang Xu ["SQ-FMFO: A Novel Scalarized Multi-Objective Q-Learning Approach for Fuzzy Membership Function Optimization"](https://link.springer.com/article/10.1007/s40815-022-01381-1) _**(2022)**_
 - Cameron Lischke, Tongtong Liu, Joe McCalmon, **Md Asifur Rahman**,Talal Halabi, Sarra Alqahtani, ["LSTM-Based Anomalous Behavior Detection in Multi-Agent Reinforcement Learning"](https://ieeexplore.ieee.org/abstract/document/9850343). _**(2022)**_
