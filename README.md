@@ -59,9 +59,9 @@ United States, <br> -->
 <br><br>
 # Technical Skills
 - **Programming Languages**:  Python, C, C++, Java, MATLAB, Swift 2, Bash Script, HTML, Javascript, PHP
-- **Packages/ Library**:  TensorFlow, PyTorch, Keras, Scikit-learn, SciPy, OpenAI Gym, MuJoCo, SafetyGym, Pandas, OpenMP, OpenMPI, Django-REST, Laravel, React-JS
+- **Packages/ Library**:  TensorFlow, PyTorch, Keras, Scikit-learn, SciPy, OpenAI Gym, MuJoCo, SafetyGym, Pandas, OpenMP, OpenMPI, Django-REST, Laravel, React-JS, Node-JS
 - **Database**: SQL, MySQL, MongoDB
-- **Software Engineering**: Jira, Figma, Selenium, Balsamiq
+- **Software Engineering**: Jira, Figma, Mural, Selenium, Balsamiq
 - **Microcontroller**:  Arduino, x86, Atmega32 
 <br><br>
 # Relevant Coursework
