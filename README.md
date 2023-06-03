@@ -25,18 +25,18 @@ United States, <br> -->
 <br><br>
 
 # Professional Experience
-### **Graduate Research Assistant**, [Wake Forest University](https://www.wfu.edu/) - Winston-Salem, NC, United States _(January 2022 - Present)_ <br>
+### **Graduate Research Assistant**, [Wake Forest University](https://www.wfu.edu/) - Winston-Salem, NC, United States _(January 2022 - Present)_ 
   - Conducting research to develop a robust and safe reinforcement learning algorithm as part of the National Science Foundation (NSF)-funded research project [CRII](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2105007). 
   - Investigating ways to improve the interpretation of an agent's behavior for safety verification.
   - Prepare and publish a relevant manuscript.
 <br><br>
 
-### **Test Engineering Intern**, [Qorvo](https://www.qorvo.com/)- Greensboro, NC, United States _(May 2023 - August 2023)_ <br>
+### **Test Engineering Intern**, [Qorvo](https://www.qorvo.com/)- Greensboro, NC, United States _(May 2023 - August 2023)_ 
   - Create auto code generation tools for tester such as LTX- PAX, Dimondx etc.
   - Design and development of test request and management system.  
 <br><br>
 
-### **Assistant Professor**, [Department of Computer Science & Engineering]([https://www.cse.ruet.ac.bd/](https://www.cse.ruet.ac.bd/asifurrahman)), [Rajshahi University of Engineering & Technology (RUET)] _(May 2021 - 2022)(Currently on study leave)_ <br>
+### **Assistant Professor**, [Department of Computer Science & Engineering]([https://www.cse.ruet.ac.bd/](https://www.cse.ruet.ac.bd/asifurrahman)), [Rajshahi University of Engineering & Technology (RUET)] _(May 2021 - 2022)(Currently on study leave)_ 
   - Teach undergraduate courses such as Programming Language, Object-Oriented Programming, Data Structures, Software Engineering, and Operating System, among others.
   - Set exam questions, invigilate exams and evaluate answer scripts.
   - Supervise undergraduate project and thesis.
@@ -44,13 +44,13 @@ United States, <br> -->
   - Conduct academic research.
 <br><br> 
 
-### **Lecturer**, [Department of Computer Science & Engineering]((https://www.cse.ruet.ac.bd/asifurrahman)), [Rajshahi University of Engineering & Technology (RUET)] _(July 2017 - April 2021)_ <br>
+### **Lecturer**, [Department of Computer Science & Engineering]((https://www.cse.ruet.ac.bd/asifurrahman)), [Rajshahi University of Engineering & Technology (RUET)] _(July 2017 - April 2021)_
   - Teach undergraduate courses such as : Object-Oriented Programming, Computer Fundamentals, Software Engineering etc.
   - Perform relevant academic and administrative duties.
   - Conduct academic research.
 <br><br>
 
-### **Lecturer**, [Department of Software Engineering](), [Daffodil International University](https://daffodilvarsity.edu.bd/)  _(January 2017 - April 2017)_ <br>
+### **Lecturer**, [Department of Software Engineering](), [Daffodil International University](https://daffodilvarsity.edu.bd/)  _(January 2017 - April 2017)_ 
   - Teach undergraduate courses such as : C, C++, Software Engineering, Computer Fundamentals etc.
   - Conduct academic research.
 <br><br>
