@@ -91,6 +91,7 @@ United States, <br> -->
 
 #### **Advanced Parallel Computation**
 - [Final Project: Implementation and analysis of Communication Avoiding Stochastic Gradient Descent (CA-SGD)]()
+- [Implementation and analysis of Row Major SGD, Local SGD]()
 <br><br>
 
 #### Website Development (Bootstrap, Laravel, MySQL)
