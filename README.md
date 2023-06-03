@@ -30,7 +30,7 @@ United States, <br> -->
   - Investigating ways to improve the interpretation of an agent's behavior for safety verification.
   - Prepare and publish a relevant manuscript.
 <br><br>
-#### **Test Engineering Intern**, [Qorvo](https://www.qorvo.com/)- greensboro, NC, United States _(May 2023 - August 2023)_ <br>
+#### **Test Engineering Intern**, [Qorvo](https://www.qorvo.com/)- Greensboro, NC, United States _(May 2023 - August 2023)_ <br>
   - Create auto code generation tools for tester such as LTX- PAX, Dimondx etc.
   - Design and development of test request and management system.  
 #### **[Assistant Professor](https://www.cse.ruet.ac.bd/asifurrahman)**, [Department of Computer Science & Engineering](https://www.cse.ruet.ac.bd/), [Rajshahi University of Engineering & Technology (RUET)](https://www.cse.ruet.ac.bd)  _(May 2021 - 2022)(Currently on study leave)_ <br>
