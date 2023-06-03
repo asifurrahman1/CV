@@ -28,9 +28,11 @@ United States, <br> -->
 #### **Graduate Research Assistant**, [Wake Forest University](https://www.wfu.edu/) - Winston-Salem, NC, United States _(January 2022 - Present)_ <br>
   - Conducting research to develop a robust and safe reinforcement learning algorithm as part of the National Science Foundation (NSF)-funded research project [CRII](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2105007). 
   - Investigating ways to improve the interpretation of an agent's behavior for safety verification.
-  - Prepare and publish a relevant manuscript about our current studies.
+  - Prepare and publish a relevant manuscript.
 <br><br>
-
+#### **Test Engineering Intern**, [Qorvo](https://www.qorvo.com/)- greensboro, NC, United States _(May 2023 - August 2023)_ <br>
+  - Create auto code generation tools for tester such as LTX- PAX, Dimondx etc.
+  - Design and development of test request and management system.  
 #### **[Assistant Professor](https://www.cse.ruet.ac.bd/asifurrahman)**, [Department of Computer Science & Engineering](https://www.cse.ruet.ac.bd/), [Rajshahi University of Engineering & Technology (RUET)](https://www.cse.ruet.ac.bd)  _(May 2021 - 2022)(Currently on study leave)_ <br>
   - Teach undergraduate courses such as Programming Language, Object-Oriented Programming, Data Structures, Software Engineering, and Operating System, among others.
   - Set exam questions, invigilate exams and evaluate answer scripts.
