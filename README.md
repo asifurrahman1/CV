@@ -30,10 +30,12 @@ United States, <br> -->
   - Investigating ways to improve the interpretation of an agent's behavior for safety verification.
   - Prepare and publish a relevant manuscript.
 <br><br>
+
 #### **Test Engineering Intern**, [Qorvo](https://www.qorvo.com/)- Greensboro, NC, United States _(May 2023 - August 2023)_ <br>
   - Create auto code generation tools for tester such as LTX- PAX, Dimondx etc.
   - Design and development of test request and management system.  
 <br><br>
+
 #### **Assistant Professor**, [Department of Computer Science & Engineering]([https://www.cse.ruet.ac.bd/](https://www.cse.ruet.ac.bd/asifurrahman)), [Rajshahi University of Engineering & Technology (RUET)] _(May 2021 - 2022)(Currently on study leave)_ <br>
   - Teach undergraduate courses such as Programming Language, Object-Oriented Programming, Data Structures, Software Engineering, and Operating System, among others.
   - Set exam questions, invigilate exams and evaluate answer scripts.
@@ -52,6 +54,7 @@ United States, <br> -->
   - Teach undergraduate courses such as : C, C++, Software Engineering, Computer Fundamentals etc.
   - Conduct academic research.
 <br><br>
+
 # Research & Publication
 - **Md Asifur Rahman**, Sarra Alqahtani, “[Adversarial Behavioral Exclusion for Safe Reinforcement Learning](https://ijcai-23.org/)”*- International Joint Conference on Artificial Intelligence (IJCAI 23)* _**(2023)**_
 - Tongtong Liu, Joe McCalmon, **Md Asifur Rahman**, Cameron Lischke, Talal Halabi, Sarra Alqahtani, [“Weaponizing Actions in Multi-Agent Reinforcement Learning: Theoretical and Empirical Study on Security and Robustness”](https://link.springer.com/chapter/10.1007/978-3-031-21203-1_21) _**(2022)**_
