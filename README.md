@@ -23,7 +23,14 @@ United States, <br> -->
 - **Thesis Supervisor**: Prof. Dr. Boshir Ahmed
 - **Undergraduate Dissertation title**: “An adaptive background modeling based on modified running Gaussian average method”
 <br>
-
+# Technical Skills
+- **Programming Languages**: Python , C++ , Java, PHP, JavaScript, Bash script 
+- **Tech/Tools**:  PyTorch, Tensorflow, SciPy, Scikit-learn, Numpy, Pandas, Keras, RLlib, Ray Tune, W&B,  Open MPI, Regex, Git, Bootstrap, Django, Laravel, API, AWS, cPanel, LaTeX, Matlab, Smartsheet, MS Office Applications, Jira, Figma, Mural, Balsamiq, Qualtrics
+- **Database**: SQL, MySQL, MongoDB
+- **Operating System:** Unix, OSx, Linux, Windows
+- **Machine Learning/Data Mining**:  Regression, Classification, Parallel-SGD, Exploratory Data Analysis, Clustering, Association Rule Mining
+- **Reinforcement Learning:**: Single and Multi-agent systems, Safe Reinforcement Learning, Multi-armed bandits, Contextual Bandits, Behavior Cloning, Inverse Reinforcement Learning
+<br><br>
 # Professional Experience
 ### **Graduate Research Assistant**, [Wake Forest University](https://www.wfu.edu/) - Winston-Salem, NC, United States _(January 2022 - Present)_ 
   - Conducting research to develop a robust and safe reinforcement learning algorithm as part of the National Science Foundation (NSF)-funded research project [CRII](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2105007). 
@@ -63,13 +70,8 @@ United States, <br> -->
 - Apu Chandraw Shill, **Md Asifur Rahman**, ["Plant Disease Detection Based on YOLOv3 and YOLOv4"](https://ieeexplore.ieee.org/document/9528179) _**(2021)**_
 - **Md Asifur Rahman**, Boshir Ahmed, Md Ali Hossian, and Md Nazrul Islam Mondal, [“An adaptive background modeling based on modified running gaussian average method”](https://ieeexplore.ieee.org/abstract/document/7912961). _**(2017)**_
 <br><br>
-# Technical Skills
-- **Programming Languages**:  Python, C, C++, Java, MATLAB, Swift 2, Bash Script, HTML, Javascript, PHP
-- **Packages/ Library**:  TensorFlow, PyTorch, Keras, Scikit-learn, SciPy, OpenAI Gym, MuJoCo, SafetyGym, Pandas, OpenMP, OpenMPI, Django-REST, Laravel, React-JS, Node-JS
-- **Database**: SQL, MySQL, MongoDB
-- **Software Engineering**: Jira, Figma, Mural, Selenium, Balsamiq
-- **Microcontroller**:  Arduino, x86, Atmega32 
-<br><br>
+# Reviewing Activity
+- Serve as a PC member in Association for the Advancement of Artificial Intelligence Conference, AAAI 2024.
 # Relevant Coursework
 - **Graduate:** Nonlinear optimization, Deep Learning, Data Mining, Theory of Algorithm, Theory of Computation, Advanced Parallel Computation, Software Engineering, Operating System
 - **Undergraduate** Applied Statistics & Queuing theory, Artificial Intelligence & Expert System, Neural Networks & Fuzzy Systems, Parallel & Distributed Processing, Digital Image Processing, Digital Signal Processing, Data Communication, Computer Network, Network Security, Peripheral & Interfacings, Software Engineering, Operating System, Discrete Mathematics, Database System, Numerical Method, Algorithm Design & Analysis, Object Oriented Programming, Data Structure, Computer Programming, Microprocessors & Assembly Language, Computer Architecture 
