@@ -23,14 +23,16 @@ United States, <br> -->
 - **Thesis Supervisor**: Prof. Dr. Boshir Ahmed
 - **Undergraduate Dissertation title**: “An adaptive background modeling based on modified running Gaussian average method”
 <br>
+
 # Technical Skills
 - **Programming Languages**: Python , C++ , Java, PHP, JavaScript, Bash script 
 - **Tech/Tools**:  PyTorch, Tensorflow, SciPy, Scikit-learn, Numpy, Pandas, Keras, RLlib, Ray Tune, W&B,  Open MPI, Regex, Git, Bootstrap, Django, Laravel, API, AWS, cPanel, LaTeX, Matlab, Smartsheet, MS Office Applications, Jira, Figma, Mural, Balsamiq, Qualtrics
 - **Database**: SQL, MySQL, MongoDB
 - **Operating System:** Unix, OSx, Linux, Windows
 - **Machine Learning/Data Mining**:  Regression, Classification, Parallel-SGD, Exploratory Data Analysis, Clustering, Association Rule Mining
-- **Reinforcement Learning:**: Single and Multi-agent systems, Safe Reinforcement Learning, Multi-armed bandits, Contextual Bandits, Behavior Cloning, Inverse Reinforcement Learning
-<br><br>
+- **Reinforcement Learning:**: Single and Multi-agent systems, Safe Reinforcement Learning, Multi-armed bandits, Contextual Bandits, Behavior Cloning, Inverse Reinforcement Learning 
+<br>
+<br>
 # Professional Experience
 ### **Graduate Research Assistant**, [Wake Forest University](https://www.wfu.edu/) - Winston-Salem, NC, United States _(January 2022 - Present)_ 
   - Conducting research to develop a robust and safe reinforcement learning algorithm as part of the National Science Foundation (NSF)-funded research project [CRII](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2105007). 
