@@ -33,7 +33,7 @@ United States, <br> -->
 - **Reinforcement Learning:**: Single and Multi-agent systems, Safe Reinforcement Learning, Multi-armed bandits, Contextual Bandits, Behavior Cloning, Inverse Reinforcement Learning 
 <br>
 <br>
-# Professional Experience
+# Professional Experience<br>
 ### **Graduate Research Assistant**, [Wake Forest University](https://www.wfu.edu/) - Winston-Salem, NC, United States _(January 2022 - Present)_ 
   - Conducting research to develop a robust and safe reinforcement learning algorithm as part of the National Science Foundation (NSF)-funded research project [CRII](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2105007). 
   - Investigating ways to improve the interpretation of an agent's behavior for safety verification.
