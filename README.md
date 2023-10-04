@@ -12,7 +12,7 @@ United States, <br> -->
 # Education
 ### **Master of Science** in Computer Science<br>
 [Wake Forest University](https://www.wfu.edu/) - Winston-Salem, NC, United States _(2022 - Present)_
-- **CGPA:** 3.93 out of 4.00 (Current)
+<!-- - **CGPA:** 3.93 out of 4.00 (Current)-->
 - **Supervisor**: [Dr. Sarra Alqahtani](https://alqahtas.sites.wfu.edu/)
 - **Dissertation title**: “Task-Agnostic Safe Reinforcement Learning”
 <br>
@@ -32,8 +32,8 @@ United States, <br> -->
 - **Machine Learning/Data Mining**:  Regression, Classification, Parallel-SGD, Exploratory Data Analysis, Clustering, Association Rule Mining
 - **Reinforcement Learning:**: Single and Multi-agent systems, Safe Reinforcement Learning, Multi-armed bandits, Contextual Bandits, Behavior Cloning, Inverse Reinforcement Learning 
 <br>
-<br>
-# Professional Experience<br>
+
+# Professional Experience
 ### **Graduate Research Assistant**, [Wake Forest University](https://www.wfu.edu/) - Winston-Salem, NC, United States _(January 2022 - Present)_ 
   - Conducting research to develop a robust and safe reinforcement learning algorithm as part of the National Science Foundation (NSF)-funded research project [CRII](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2105007). 
   - Investigating ways to improve the interpretation of an agent's behavior for safety verification.
